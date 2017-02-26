@@ -1,4 +1,4 @@
-# stdClass speed test
+# PHP stdClass speed test
 stdClass &amp; Magic methods speed test.
 
 # Results
