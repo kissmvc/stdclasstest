@@ -39,8 +39,11 @@ Memory Peak: 0.25 MB
 Time: 0.71585416793823
 
 #### stdClass test
+
 Memory: 0.25 MB
+
 Memory Peak: 0.25 MB
+
 Time: 0.17567706108093
 
 #### Array test
@@ -71,8 +74,11 @@ Memory Peak: 0.25 MB
 Time: 0.19725203514099
 
 #### stdObject3 test
+
 Memory: 0.25 MB
+
 Memory Peak: 0.25 MB
+
 Time: 1.00172996521
 
 #### stdObject4 test
@@ -92,8 +98,11 @@ Memory Peak: 0.25 MB
 Time: 0.19884610176086
 
 #### Array test
+
 Memory: 0.25 MB
+
 Memory Peak: 0.25 MB
+
 Time: 0.14026379585266
 
 
@@ -108,8 +117,11 @@ Memory Peak: 0.25 MB
 Time: 1.3097100257874
 
 #### stdObject2 test
+
 Memory: 0.25 MB
+
 Memory Peak: 0.25 MB
+
 Time: 0.4960470199585
 
 #### stdObject3 test
