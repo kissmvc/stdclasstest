@@ -6,10 +6,10 @@ It seems that speed of php array & stdClass is relatively same, but object creat
 
 === Integer test (add integer to member): 
 
-stdObject test
-Memory: 0.25 MB
-Memory Peak: 0.25 MB
-Time: 0.94675898551941
+stdObject test 
+Memory: 0.25 MB 
+Memory Peak: 0.25 MB 
+Time: 0.94675898551941 
 
 stdObject2 test
 Memory: 0.25 MB
