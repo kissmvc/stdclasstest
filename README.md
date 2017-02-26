@@ -2,7 +2,7 @@
 stdClass &amp; Magic methods speed test.
 
 # Results
-It seems that speed of php array & stdClass is relatively same, but object created by mygic methods is 2x slower than stdClass. Surprise - extended stdClass is still 2x faster than object created by magic methods.
+It seems that speed of php array & stdClass is relatively same, but object created by magic methods is 2x slower than stdClass. Surprise - extended stdClass is still 2x faster than object created by magic methods.
 
 ##Integer test (add integer to member): 
 
